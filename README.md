@@ -3,6 +3,6 @@
 <img
   src="https://render.gitanimals.org/farms/yeayoungKim"
   width="5000"
-  height="200"
+  height="100"
 />
 </a>
